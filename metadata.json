@@ -1,0 +1,8 @@
+{
+  "name": "Atelier Vance — Graphic Design Studio",
+  "description": "Award-style portfolio website for a luxury graphic design studio specializing in bespoke brand identity, editorial design, packaging, and digital art direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
